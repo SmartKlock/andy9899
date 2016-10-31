@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vinayak/Imagica/Imagica/app/build/intermediates/res/merged/debug/menu/activity_side_swipe_drawer.xml",
+        "source": "/home/vinayak/Imagica/Imagica/app/src/main/res/menu/activity_side_swipe_drawer.xml"
+    },
+    {
+        "merged": "/home/vinayak/Imagica/Imagica/app/build/intermediates/res/merged/debug/menu/side_swipe.xml",
+        "source": "/home/vinayak/Imagica/Imagica/app/src/main/res/menu/side_swipe.xml"
+    }
+]
